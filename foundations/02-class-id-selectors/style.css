@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(222, 156, 172);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bigger,
+.greenbox {
+    font-size: 24px;
+}
+
+#secondid {
+    color: blue;
+    font-size: 36px;
+}
+
+.greenbox {
+    background-color: rgb(109, 229, 127);
+    font-weight: bold;
+}
